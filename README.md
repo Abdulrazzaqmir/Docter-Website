@@ -1,1 +1,1 @@
-# Docter-Website
+# Doctar-Website
